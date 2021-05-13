@@ -1,1 +1,1 @@
-# old_version
+Old DroidVPN version repo
